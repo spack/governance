@@ -20,6 +20,12 @@ may be removed from the TSC by a 2/3 vote of the TSC.
 Current Membership:
 - <fill in list>
 
+### TSC Chair
+
+The TSC will elect a chair. The TSC chair runs TSC meetings and may
+make interim decisions on urgent matters on behalf of the TSC, which
+may be reviewed by the TSC at its next meeting.
+
 ### Meetings
 
 The TSC meets at 9am Pacific Time on the first Wednesday of every
