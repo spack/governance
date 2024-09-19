@@ -15,7 +15,9 @@ on which the community is unable to reach consensus.
 ### Membership
 
 Members can be added to the TSC by a majority vote of the TSC. Members
-may be removed from the TSC by a 2/3 vote of the TSC.
+may be removed from the TSC by a 2/3 vote of the TSC. If a TSC member
+has been inactive for over 6 months, the TSC must hold a vote on
+whether to remove that member from the TSC.
 
 Current Membership:
 - <fill in list>
