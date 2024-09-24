@@ -21,20 +21,20 @@ whether to remove that member from the TSC.
 
 Current Membership:
 
-1. Todd Gamblin (@tgamblin), LLNL
-2. Greg Becker (@becker33), LLNL
-3. Peter Scheibel (@scheibelp), LLNL
-4. Tamara Dahlgren (@tldahlgren), LLNL
-5. Massimiliano Culpo (@alalazo), np-complete, S.r.l
-6. Harmen Stoppels (@haampie), Stoppels Consulting
-7. Phil Sakievich (@psakievich), SNL
-8. Adam Stewart (@adamjstewart), TU Munich
-9. Wouter Deconinck (@wdconinc), U. Manitoba
-10. John Parent (@johnwparent), Kitware
-11. Ryan Krattiger (@kwryankrattiger), Kitware
-12. Luke Peyralans (@eugeneswalker), U. Oregon
-13. Marc Paterno (@marcpaterno), Fermilab
-14. Mark Krentel (@mwkrentel), Rice University
+1. Todd Gamblin ([@tgamblin](https://github.com/tgamblin)), LLNL
+2. Greg Becker ([@becker33](https://github.com/becker33)), LLNL
+3. Peter Scheibel ([@scheibelp](https://github.com/scheibelp)), LLNL
+4. Tamara Dahlgren ([@tldahlgren](https://github.com/tldahlgren)), LLNL
+5. Massimiliano Culpo ([@alalazo](https://github.com/alalazo)), np-complete, S.r.l
+6. Harmen Stoppels ([@haampie](https://github.com/haampie)), Stoppels Consulting
+7. Phil Sakievich ([@psakievich](https://github.com/psakievich)), SNL
+8. Adam Stewart ([@adamjstewart](https://github.com/adamjstewart)), TU Munich
+9. Wouter Deconinck ([@wdconinc](https://github.com/wdconinc)), U. Manitoba
+10. John Parent ([@johnwparent](https://github.com/johnwparent)), Kitware
+11. Ryan Krattiger ([@kwryankrattiger](https://github.com/kwryankrattiger)), Kitware
+12. Luke Peyralans ([@eugeneswalker](https://github.com/eugeneswalker)), U. Oregon
+13. Marc Paterno ([@marcpaterno](https://github.com/marcpaterno)), Fermilab
+14. Mark Krentel ([@mwkrentel](https://github.com/mwkrentel)), Rice University
 
 ### TSC Chair
 
@@ -75,7 +75,7 @@ high-impact changes have their own
 
 The [Spack mailing list](https://groups.google.com/d/forum/spack) is
 an announcements-only list. Spack also has a twitter account
-`@spackpm`.
+`[@spackpm](https://github.com/spackpm)`.
 
 ## Teams in the Spack organization
 
