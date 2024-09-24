@@ -20,7 +20,21 @@ has been inactive for over 6 months, the TSC must hold a vote on
 whether to remove that member from the TSC.
 
 Current Membership:
-- <fill in list>
+
+1. Todd Gamblin (@tgamblin), LLNL
+2. Greg Becker (@becker33), LLNL
+3. Peter Scheibel (@scheibelp), LLNL
+4. Tamara Dahlgren (@tldahlgren), LLNL
+5. Massimiliano Culpo (@alalazo), np-complete, S.r.l
+6. Harmen Stoppels (@haampie), Stoppels Consulting
+7. Phil Sakievich (@psakievich), SNL
+8. Adam Stewart (@adamjstewart), TU Munich
+9. Wouter Deconinck (@wdconinc), U. Manitoba
+10. John Parent (@johnwparent), Kitware
+11. Ryan Krattiger (@kwryankrattiger), Kitware
+12. Luke Peyralans (@eugeneswalker), U. Oregon
+13. Marc Paterno (@marcpaterno), Fermilab
+14. Mark Krentel (@mwkrentel), Rice University
 
 ### TSC Chair
 
