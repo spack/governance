@@ -42,10 +42,16 @@ The TSC will elect a chair. The TSC chair runs TSC meetings and may
 make interim decisions on urgent matters on behalf of the TSC, which
 may be reviewed by the TSC at its next meeting.
 
+Current chair:
+* Todd Gamblin ([@tgamblin](https://github.com/tgamblin)), LLNL
+
 ### Meetings
 
 The TSC meets at 9am Pacific Time on the first Wednesday of every
 month. These meetings are open to the public, and are held virtually.
+
+Meeting notes can be found in [tsc-meeting-nodes](tsc-meeting-nodes)
+in this repository.
 
 ## Public Spack fora
 
