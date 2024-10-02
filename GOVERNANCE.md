@@ -45,7 +45,7 @@ may be reviewed by the TSC at its next meeting.
 Current chair:
 * Todd Gamblin ([@tgamblin](https://github.com/tgamblin)), LLNL
 
-### Meetings
+### Meetings and Notes
 
 The TSC meets at 9am Pacific Time on the first Wednesday of every
 month. These meetings are open to the public, and are held virtually.
@@ -53,12 +53,12 @@ month. These meetings are open to the public, and are held virtually.
 Meeting notes can be found in [tsc-meeting-nodes](tsc-meeting-nodes)
 in this repository.
 
-## Public Spack fora
+## Other Public Spack fora
 
 ### Weekly Meetings
 
-Public Spack meetings are held every Wednesday that is not a TSC
-meeting, at 9am Pacific Time. These meetings are held virtually over
+Public Spack community meetings are held every Wednesday that is not a TSC meeting, at
+9am Pacific Time. These meetings are held virtually over
 [webex](https://llnlfed.webex.com/llnlfed/j.php?MTID=m96de22e81d9a3218bb76dc416420c93a).
 
 ### Spack slack
