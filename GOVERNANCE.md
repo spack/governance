@@ -50,7 +50,7 @@ Current chair:
 The TSC meets at 9am Pacific Time on the first Wednesday of every
 month. These meetings are open to the public, and are held virtually.
 
-Meeting notes can be found in [tsc-meeting-nodes](tsc-meeting-nodes)
+Meeting notes can be found in [tsc-meeting-notes](tsc-meeting-notes)
 in this repository.
 
 ## Other Public Spack fora
