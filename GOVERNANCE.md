@@ -20,11 +20,11 @@ the first meeting it is aware of the vacancy, and nominations may be
 made until the next TSC meeting. The nominations will be made
 privately to the TSC. If there are no nominees, the TSC will reduce in
 size by one rather than adding a new member. If there are multiple
-nominees, the TSC will first vote (by ranked-choice if more than two
-nominees) to select a single candidate, and will then hold the
-previously mentioned majority vote to add the member. If the TSC votes
-not to add the chosen candidate, the TSC will reduce in size by one
-and not add a new member.
+nominees, the TSC will vote among the nominees (by ranked-choice if
+more than two nominees).  If the winning candidate does not receive a
+majority of votes, to include a majority in the final round of
+ranked-choice vote tallying, the TSC will reduce in size by one and
+not add a new member.
 
 Members may resign their role at any time by notifying the TSC, either
 in advance of a meeting or at a meeting of the TSC. This will result
