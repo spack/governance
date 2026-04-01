@@ -20,17 +20,21 @@ has been inactive for over 6 months, the TSC must hold a vote on
 whether to remove that member from the TSC.
 
 Members may resign their role at any time by notifying the TSC, either
-in advance of a meeting or at a meeting of the TSC.
+at or in advance of a TSC meeting.
 
-New members may be nominated by any TSC member at a TSC meeting or
-privately to the TSC in advance of discussion at a TSC meeting. The TSC
-will vote on adding the nominee at the next TSC after the one in which
-their nomination is discussed. During the period between these meetings,
-additional nominees may be put forward, and the TSC will consider all
-such nominees at the next meeting. If multiple nominees are put forward
-simultaneously, the TSC may decide whether to vote independently on the
-nominees or via ranked-choice voting. In the case of ranked-choice voting,
-a majority on the final round of ranked-choice tallying constitutes a
+New members may be nominated by any TSC member. Nominations may be
+made at a TSC meeting or privately (e.g. by email or the private TSC
+slack channel) to the TSC in advance of discussion at a TSC
+meeting. If the nomination is made between meetings, there must be a
+TSC meeting between the first nomination and the TSC meeting at which
+a vote will be taken. If additional nominees are put forward between
+meetings, the TSC will consier all nominees at one meeting, based on
+the timing of the earliest active nomination.
+
+If multiple nominees are under consideration at any given meeting, the
+TSC may decide whether to vote independently on the nominees or via
+ranked-choice voting. In the case of ranked-choice voting is used, a
+majority on the final round of ranked-choice tallying constitutes a
 majority of the TSC and admits the nominee to the committee.
 
 Current Membership:
