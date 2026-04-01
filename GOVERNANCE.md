@@ -14,24 +14,10 @@ on which the community is unable to reach consensus.
 
 ### Membership
 
-Members can be added to the TSC by a majority vote of the TSC. If
-there is a vacancy on the TSC, the TSC shall initiate a nomination
-period at the first meeting it is aware of the vacancy, and
-nominations may be made until the next TSC meeting. The nominations
-will be made privately to the TSC. If there are no nominees, the TSC
-will reduce in size by one rather than adding a new member. If there
-are multiple nominees, the TSC will vote among the nominees (by
-ranked-choice if more than two nominees).  If the winning candidate
-does not receive a majority of votes, to include a majority in the
-final round of ranked-choice vote tallying, the TSC will reduce in
-size by one and not add a new member.
-
-Members may resign their role at any time by notifying the TSC, either
-in advance of a meeting or at a meeting of the TSC. This will result
-in a vacancy, handled as above. Members may also be removed from the
-TSC by a 2/3 vote of the TSC. If a TSC member has been inactive for
-over 6 months, the TSC must hold a vote on whether to remove that
-member from the TSC.
+Members can be added to the TSC by a majority vote of the TSC. Members
+may be removed from the TSC by a 2/3 vote of the TSC. If a TSC member
+has been inactive for over 6 months, the TSC must hold a vote on
+whether to remove that member from the TSC.
 
 Current Membership:
 
