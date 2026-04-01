@@ -28,7 +28,7 @@ slack channel) to the TSC in advance of discussion at a TSC
 meeting. If the nomination is made between meetings, there must be a
 TSC meeting between the first nomination and the TSC meeting at which
 a vote will be taken. If additional nominees are put forward between
-meetings, the TSC will consier all nominees at one meeting, based on
+meetings, the TSC will consider all nominees at one meeting, based on
 the timing of the earliest active nomination.
 
 If multiple nominees are under consideration at any given meeting, the
