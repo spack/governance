@@ -25,17 +25,14 @@ at or in advance of a TSC meeting.
 New members may be nominated by any TSC member. Nominations may be
 made at a TSC meeting or privately (e.g. by email or the private TSC
 slack channel) to the TSC in advance of discussion at a TSC
-meeting. If the nomination is made between meetings, there must be a
-TSC meeting between the first nomination and the TSC meeting at which
-a vote will be taken. If additional nominees are put forward between
-meetings, the TSC will consider all nominees at one meeting, based on
-the timing of the earliest active nomination.
+meeting.
 
-If multiple nominees are under consideration at any given meeting, the
-TSC may decide whether to vote independently on the nominees or via
-ranked-choice voting. In the case of ranked-choice voting is used, a
-majority on the final round of ranked-choice tallying constitutes a
-majority of the TSC and admits the nominee to the committee.
+In order to avoid an incentive to constantly expand the size of the
+TSC, when considering multiple nominations the TSC will first vote on
+the number of members to add. Voting on the nominees will be by
+ranked-choice voting, and any nominee not listed on a majority of
+ballots does not satisfy the majority-vote criteria, regardless of
+their rank in the voting.
 
 Current Membership:
 
