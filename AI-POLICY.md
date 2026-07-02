@@ -14,6 +14,7 @@ You are ultimately responsible for your contributions. In particular, you must:
 
 - understand every line of code or documentation that you contribute,
 - ensure that you have permission (usually from your employer) to contribute, and
+- clearly describe the rationale of the PR or alternatives explored.
 
 Accidents happen, and everyone has introduced one or two security vulnerabilities before (right? right!?). The important thing is not that your code is perfect, but that you put in your best effort to ensure its quality and correctness.
 
