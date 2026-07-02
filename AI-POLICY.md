@@ -46,7 +46,7 @@ All PRs must disclose to what extent AI was involved in writing the code using t
 
 ## Enforcement
 
-The above policy will be enforced at the discretion of the Technical Steering Committee based on the severity of the violation and likelihood of bot accounts. In all cases, a maintainer will point out exactly which part of the AI policy has been violated so that contributors can learn from their mistakes.
+The above policy will be enforced at the discretion of the Technical Steering Committee based on the severity of the violation and likelihood of bot accounts. In all cases, a maintainer will point out exactly which part of the AI policy has been violated so that contributors can learn from their mistakes. PRs may be closed, and repeat offenders or bot accounts may be banned from the project to preserve valuable maintainer time.
 
 ## References
 
