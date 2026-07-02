@@ -14,9 +14,8 @@ You are ultimately responsible for your contributions. In particular, you must:
 
 - understand every line of code or documentation that you contribute,
 - ensure that you have permission (usually from your employer) to contribute, and
-- take responsibility for any bugs you introduce.
 
-Accidents happen, and everyone has introduced one or two security vulnerabilities before (right? right!?). The important thing is not that your code is perfect, but that you take responsibility for its quality and correctness. This includes apologizing for mistakes, fixing bugs, and reporting vulnerabilities.
+Accidents happen, and everyone has introduced one or two security vulnerabilities before (right? right!?). The important thing is not that your code is perfect, but that you put in your best effort to ensure its quality and correctness.
 
 Before tackling an issue or opening a PR with the assistance of AI, think about whether you could reasonably solve this problem or implement this feature without the use of AI. If not, it is unlikely that you will be able to fully grasp the AI implementation.
 
