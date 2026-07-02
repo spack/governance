@@ -41,16 +41,8 @@ AI makes it easier than ever to quickly open a PR with minimal effort. However, 
 All PRs must disclose to what extent AI was involved in writing the code using the following template:
 
 - [ ] 🟢 **No AI usage**: written by humans, for humans
-  - You wrote all code yourself without AI assistance, great job!
-  - These PRs require at least one maintainer to approve before they can be merged
 - [ ] 🟡 **AI-assisted**: AI helped with the coding, but I understand every line
-  - AI was used to generate the initial boilerplate, but required significant iteration and interaction
-  - You understand, manually reviewed, and manually tested every line before opening the PR
-  - These PRs require at least two maintainers to approve before they can be merged
-- [ ] 🔴 **AI-generated**: AI did everything, review with caution
-  - AI generated all code with little to no interaction beyond the initial prompt
-  - You cannot explain the logic behind your implementation without asking the AI
-  - These PRs will be closed immediately, as AI cannot hold copyright
+- [ ] 🔴 **AI-generated**: AI did everything; I cannot explain all of the logic in this PR
 
 ## Enforcement
 
