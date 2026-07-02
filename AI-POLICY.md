@@ -21,7 +21,7 @@ Before tackling an issue or opening a PR with the assistance of AI, think about 
 
 ### Copyright
 
-Fully autonomous or "agentic" AI contributions are not accepted as AI cannot hold copyright.[^1] You as a contributor are responsible for determining whether or not your contributions contain any code that is copied from a project under a different license. If you are not able to confirm whether or not your code is free from copyright issues, please do not open a PR. Instead, open an issue and ask someone else to contribute for you.
+Fully autonomous or "agentic" AI contributions are not accepted as AI cannot hold copyright.[^1] You as a contributor are responsible for determining whether or not your contributions contain any code that is copied from a project under a different license. If you are not able to confirm whether or not your code is free from copyright issues, please do not open a PR. Instead, open an issue and ask someone else to contribute for you. AI tools must not add Signed-off-by or Co-authored-by tags. Only humans can legally certify the Developer Certificate of Origin (DCO). Instead, use Assisted-by to document AI tools.
 
 [^1]: [Thaler v. Perlmutter, 2025](https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf)
 
