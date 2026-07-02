@@ -6,7 +6,7 @@ Note that this is a rapidly evolving landscape, and we may make frequent updates
 
 ## Policy
 
-The following requirements apply to all interactions on GitHub, including discussions, issues, pull requests, code, documentation, and comments. While many of these requirements are designed with generative AI in mind, they also apply to human-authored contributions as well.
+The following requirements apply to all interactions on GitHub, Slack, and email. While many of these requirements are designed with generative AI in mind, they also apply to human-authored contributions as well.
 
 ### Responsibility
 
