@@ -54,14 +54,7 @@ All PRs must disclose to what extent AI was involved in writing the code using t
 
 ## Enforcement
 
-The above policy will be enforced more strictly depending on how many times a contributor violates the policy, not based on the severity of the violation. In all cases, a maintainer will point out exactly which part of the AI policy has been violated so that contributors can learn from their mistakes.
-
-1. First-time offense: ask the contributor to make corrections.
-2. Second-time offense: immediately close the issue/PR.
-3. Third-time offense: a temporary ban on all contributions.
-4. Fourth-time offense: a permanent ban on all contributions.
-
-These penalties do not apply to contributions made before this policy was adopted, and do not stack for multiple contributions made at the same time.
+The above policy will be enforced at the discretion of the Technical Steering Committee based on the severity of the violation and likelihood of bot accounts. In all cases, a maintainer will point out exactly which part of the AI policy has been violated so that contributors can learn from their mistakes.
 
 ## References
 
