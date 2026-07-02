@@ -40,9 +40,9 @@ AI makes it easier than ever to quickly open a PR with minimal effort. However, 
 
 All PRs must disclose to what extent AI was involved in writing the code using the following template:
 
-- [ ] 🟢 **No AI usage**: written by humans, for humans
-- [ ] 🟡 **AI-assisted**: AI helped with the coding, but I understand every line
-- [ ] 🔴 **AI-generated**: AI did everything; I cannot explain all of the logic in this PR
+- [ ] **No AI usage**: written by humans, for humans
+- [ ] **AI-assisted**: AI helped with the coding, but I understand every line
+- [ ] **AI-generated**: AI did everything; I cannot explain all of the logic in this PR
 
 ## Enforcement
 
