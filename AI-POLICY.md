@@ -64,5 +64,6 @@ This AI policy was not developed in a vacuum. While some of the above policies m
 - [ty](https://github.com/astral-sh/.github/blob/main/AI_POLICY.md): responsibility, communication, copyright
 - [Sphinx](https://github.com/sphinx-doc/sphinx/blob/master/doc/internals/ai-policy.rst): responsibility, disclosure, copyright, communication
 - [Pytest](https://github.com/pytest-dev/pytest/blob/main/CONTRIBUTING.rst#aillm-assisted-contributions-policy): responsibility, communication, disclosure
+- [TorchGeo](https://github.com/torchgeo/governance/blob/main/AI-POLICY.md): responsibility, copyright, communication, conciseness, disclosure
 
 In particular, our AI policy is most heavily influenced by LLVM, with the initial draft coming from TorchGeo!
