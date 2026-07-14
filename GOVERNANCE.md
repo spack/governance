@@ -35,6 +35,8 @@ Current Membership:
 12. Luke Peyralans ([@eugeneswalker](https://github.com/eugeneswalker)), U. Oregon
 13. Marc Paterno ([@marcpaterno](https://github.com/marcpaterno)), Fermilab
 14. Mark Krentel ([@mwkrentel](https://github.com/mwkrentel)), Rice University
+15. Jonathon Anderson ([@blue42u](https://github.com/blue42u)), Rice University
+16. Richard Berger ([@rbberger](https://github.com/rbberger)), Los Alamos National Laboratory
 
 ### TSC Chair
 
