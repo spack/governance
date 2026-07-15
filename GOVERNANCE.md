@@ -24,19 +24,22 @@ Current Membership:
 1. Todd Gamblin ([@tgamblin](https://github.com/tgamblin)), LLNL
 2. Greg Becker ([@becker33](https://github.com/becker33)), LLNL
 3. Peter Scheibel ([@scheibelp](https://github.com/scheibelp)), LLNL
-4. Tamara Dahlgren ([@tldahlgren](https://github.com/tldahlgren)), LLNL
-5. Massimiliano Culpo ([@alalazo](https://github.com/alalazo)), np-complete, S.r.l
-6. Harmen Stoppels ([@haampie](https://github.com/haampie)), Stoppels Consulting
-7. Phil Sakievich ([@psakievich](https://github.com/psakievich)), SNL
-8. Adam Stewart ([@adamjstewart](https://github.com/adamjstewart)), TU Munich
-9. Wouter Deconinck ([@wdconinc](https://github.com/wdconinc)), U. Manitoba
-10. John Parent ([@johnwparent](https://github.com/johnwparent)), Kitware
-11. Ryan Krattiger ([@kwryankrattiger](https://github.com/kwryankrattiger)), Kitware
-12. Luke Peyralans ([@eugeneswalker](https://github.com/eugeneswalker)), U. Oregon
-13. Marc Paterno ([@marcpaterno](https://github.com/marcpaterno)), Fermilab
-14. Mark Krentel ([@mwkrentel](https://github.com/mwkrentel)), Rice University
-15. Jonathon Anderson ([@blue42u](https://github.com/blue42u)), Rice University
-16. Richard Berger ([@rbberger](https://github.com/rbberger)), Los Alamos National Laboratory
+4. Massimiliano Culpo ([@alalazo](https://github.com/alalazo)), np-complete, S.r.l
+5. Harmen Stoppels ([@haampie](https://github.com/haampie)), Stoppels Consulting
+6. Phil Sakievich ([@psakievich](https://github.com/psakievich)), SNL
+7. Adam Stewart ([@adamjstewart](https://github.com/adamjstewart)), TU Munich
+8. Wouter Deconinck ([@wdconinc](https://github.com/wdconinc)), U. Manitoba
+9. John Parent ([@johnwparent](https://github.com/johnwparent)), Kitware
+10. Ryan Krattiger ([@kwryankrattiger](https://github.com/kwryankrattiger)), Kitware
+11. Luke Peyralans ([@eugeneswalker](https://github.com/eugeneswalker)), U. Oregon
+12. Marc Paterno ([@marcpaterno](https://github.com/marcpaterno)), Fermilab
+13. Jonathon Anderson ([@blue42u](https://github.com/blue42u)), Rice University
+14. Richard Berger ([@rbberger](https://github.com/rbberger)), Los Alamos National Laboratory
+
+Former Membership:
+
+1. Tamara Dahlgren ([@tldahlgren](https://github.com/tldahlgren)), LLNL
+2. Mark Krentel ([@mwkrentel](https://github.com/mwkrentel)), Rice University
 
 ### TSC Chair
 
