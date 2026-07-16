@@ -26,7 +26,7 @@ Current Membership:
 3. Peter Scheibel ([@scheibelp](https://github.com/scheibelp)), LLNL
 4. Massimiliano Culpo ([@alalazo](https://github.com/alalazo)), np-complete, S.r.l
 5. Harmen Stoppels ([@haampie](https://github.com/haampie)), Stoppels Consulting
-6. Phil Sakievich ([@psakievich](https://github.com/psakievich)), SNL
+6. Phil Sakievich ([@psakievich](https://github.com/psakievich)), Susquehanna International Group
 7. Adam Stewart ([@adamjstewart](https://github.com/adamjstewart)), TU Munich
 8. Wouter Deconinck ([@wdconinc](https://github.com/wdconinc)), U. Manitoba
 9. John Parent ([@johnwparent](https://github.com/johnwparent)), Kitware
