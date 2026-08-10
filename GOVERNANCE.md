@@ -19,6 +19,21 @@ may be removed from the TSC by a 2/3 vote of the TSC. If a TSC member
 has been inactive for over 6 months, the TSC must hold a vote on
 whether to remove that member from the TSC.
 
+Members may resign their role at any time by notifying the TSC, either
+at or in advance of a TSC meeting.
+
+New members may be nominated by any TSC member. Nominations may be
+made at a TSC meeting or privately (e.g. by email or the private TSC
+slack channel) to the TSC in advance of discussion at a TSC
+meeting.
+
+In order to avoid an incentive to constantly expand the size of the
+TSC, when considering multiple nominations the TSC will first vote on
+the number of members to add. Voting on the nominees will be by
+ranked-choice voting, and any nominee not listed on a majority of
+ballots does not satisfy the majority-vote criteria, regardless of
+their rank in the voting.
+
 Current Membership:
 
 1. Todd Gamblin ([@tgamblin](https://github.com/tgamblin)), LLNL
