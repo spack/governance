@@ -13,10 +13,15 @@ Spack AI Usage Policy
 
 2. Authorship
 
-  Every contribution must have a human author of record. AI tools may not be listed as authors or co-authors.
+  Every contribution must have a human author of record. AI tools may not be listed as authors or co-authors. Authors must disclose whether their PRs are AI-assisted.
+
+  We define "AI-assisted" to mean an LLM or other AI tool wrote some portion of the characters/text of the contribution. Using AI to identify bugs or otherwise speed up development does not lead to an AI-assisted PR if the AI does not write on behalf of the user.
 
   - The human author's Signed-off-by: (DCO) certifies that they have the right to submit the work.
-  - If you are not claiming full authorship of your AI-assisted contribution, use an Assisted-by: commit trailer to give credit, e.g. Assisted-by: Claude Fable 5
+  - Do not use `Co-authored-by` for AI-assisted commits. Use `Assisted-by` if warranted. E.g. `Assisted-by: Claude Fable 5` or `Assisted-by: Claude`. `Assisted-by` is not required by the Spack project.
+  - Disclosure of AI-assisted PRs is done by a checkbox template in the PR.
+
+  Spack repositories will add an `AGENTS.md` file instructing AI agents to use `Assisted-by` and to follow the PR template when submitting PRs.
 
 3. Human interaction
 
