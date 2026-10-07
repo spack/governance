@@ -1,6 +1,6 @@
-Spack AI Usage Policy
+# Spack AI Usage Policy
 
-1. Extractive contributions
+### 1. Extractive contributions
 
   AI tools lower the cost of producing plausible-looking contributions. At best, the maintainer cost to review these contributions is mostly unchanged. Without effort from the user, AI-generated contributions can be verbose and difficult for maintainers to review.
 
@@ -11,7 +11,7 @@ Spack AI Usage Policy
   - Maintainers may close any PR or issue they judge to be extractive.
   - Contributors who repeatedly submit extractive contributions will be suspended or banned.
 
-2. Authorship
+### 2. Authorship
 
   Every contribution must have a human author of record. AI tools may not be listed as authors or co-authors. Authors must disclose whether their PRs are AI-assisted.
 
@@ -23,13 +23,13 @@ Spack AI Usage Policy
 
   Spack repositories will add an `AGENTS.md` file instructing AI agents to use `Assisted-by` and to follow the PR template when submitting PRs.
 
-3. Human interaction
+### 3. Human interaction
 
   Review comments and questions are addressed to you, not your tooling. You may use AI to help draft a reply, but a human must understand and post it.
 
   - Do not configure an agent to respond autonomously on PRs or issues.
   - Unattended agent responses will be treated as extractive under Section 1.
 
+### Notes:
 
-Notes:
-[1] Credit for the term "Extractive Contribution" goes Nadia Eghbal in her book "Working in Public". Our definition paraphrases hers.
+  [1] Credit for the term "Extractive Contribution" goes Nadia Eghbal in her book "Working in Public". Our definition paraphrases hers.
