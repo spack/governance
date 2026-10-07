@@ -4,7 +4,7 @@ Spack AI Usage Policy
 
   AI tools lower the cost of producing plausible-looking contributions. At best, the maintainer cost to review these contributions is mostly unchanged. Without effort from the user, AI-generated contributions can be verbose and difficult for maintainers to review.
 
-  A contribution is extractive when it demands more maintainer effort than the value of the contribution. Common examples can be unreviewed AI-generated PRs, machine-generated issue reports, or changes the contributor cannot explain or defend. Extractive contributions are not unique to AI-assisted development, and avoiding AI use does not make extractive contributions acceptable.
+  A contribution is extractive when it demands more maintainer effort than the value of the contribution[1]. Common examples can be unreviewed AI-generated PRs, machine-generated issue reports, or changes the contributor cannot explain or defend. Extractive contributions are not unique to AI-assisted development, and avoiding AI use does not make extractive contributions acceptable.
 
   - You are responsible for everything you submit, however it was produced.
   - Understand every component of your contribution well enough to discuss and revise technical details.
@@ -24,3 +24,7 @@ Spack AI Usage Policy
 
   - Do not configure an agent to respond autonomously on PRs or issues.
   - Unattended agent responses will be treated as extractive under Section 1.
+
+
+Notes:
+[1] Credit for the term "Extractive Contribution" goes Nadia Eghbal in her book "Working in Public". Our definition paraphrases hers.
